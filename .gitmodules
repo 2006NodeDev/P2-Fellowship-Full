@@ -1,0 +1,12 @@
+[submodule "P2-Fellowship-User-Service"]
+	path = P2-Fellowship-User-Service
+	url = https://github.com/2006NodeDev/P2-Fellowship-User-Service
+[submodule "P2-Fellowship-Location-Service"]
+	path = P2-Fellowship-Location-Service
+	url = https://github.com/2006NodeDev/P2-Fellowship-Location-Service
+[submodule "P2-Fellowship-Deployments"]
+	path = P2-Fellowship-Deployments
+	url = https://github.com/2006NodeDev/P2-Fellowship-Deployments
+[submodule "P2-Fellowship-Frontend"]
+	path = P2-Fellowship-Frontend
+	url = https://github.com/2006NodeDev/P2-Fellowship-Frontend
